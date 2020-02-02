@@ -185,7 +185,7 @@ public class Climate1 extends Applet implements Runnable, KeyListener {
 	
 
 	public static void main(String args[]) {
-		Climate t = new Climate();
+		Climate1 t = new Climate1();
 	//	t.setSize(1000,704);
 		t.setVisible(true);
 		//t.pack();
