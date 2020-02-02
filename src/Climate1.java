@@ -49,7 +49,7 @@ public class Climate1 extends Applet implements Runnable, KeyListener {
 		can = getImage(getCodeBase(),"can.png");
 		fish = getImage(getCodeBase(),"fish.png");
 		tv = getImage(getCodeBase(),"tv.png");
-		waterrun = getImage(getCodeBase(), "wave.png");
+		waterrun = getImage(getCodeBase(), "waterrun.png");
 		
 		targets.add(new Target(80, 80, 780, 390, bin));
 		targets.add(new Target(80, 80, 750, 150, bin));
